@@ -1,0 +1,8 @@
+Project Title - RFID attendance System using IOT
+
+Done with the interfacing between RFID card and NodeMcu.
+        -writing data into RFID card
+        -reading data from RFID tag
+        -Displaying received data into serial monitor 
+        
+        
